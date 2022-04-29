@@ -1,7 +1,7 @@
 # Food Sale Predictions
 ## Predicting Item Sales by Data Modeling and Analysis
 
-**David Wan**: 
+**By David Wan**
 
 ### Business problem:
 
@@ -14,8 +14,9 @@ Data can include source and high-level description (e.g. # obs)
 
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+- I used simple imputation methods to tackle missing values associated with the dataset.
+- I then scaled numerical information using the Scaler method and encoded categorical information using the OneHotEncoder method to help fit the model needed for analysis.
+- I have utilized linear regression modeling and regression tree modeling to help model sales prediction data.
 
 ## Results
 
