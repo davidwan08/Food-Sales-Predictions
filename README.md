@@ -16,6 +16,9 @@
 
 > This is the raw csv file I used to perform my sales predictions modeling and analysis.
 
+![Food Sales Predictions Project](Food_Sales_Prediction_Project_Modeling_and_Analysis.ipynb)
+
+> This is the link to the project file.
 
 ## Methods
 - I used simple imputation methods to tackle missing values associated with the dataset.
